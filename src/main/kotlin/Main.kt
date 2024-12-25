@@ -7,7 +7,6 @@ fun main() {
         return
     }
 
-    // Преобразование числа в двоичную систему
     val binary = Integer.toBinaryString(input)
 
     println("Двоичное представление: $binary")
